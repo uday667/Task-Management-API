@@ -46,6 +46,3 @@ Run the test suite with:
 mvn test
 ```
 All tests should pass, providing full coverage.
-
-## License
-MIT – feel free to use and modify.
