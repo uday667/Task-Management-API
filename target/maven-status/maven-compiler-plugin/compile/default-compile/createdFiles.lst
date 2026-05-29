@@ -1,0 +1,11 @@
+com\example\taskmanagement\service\TaskService.class
+com\example\taskmanagement\TaskManagementApiApplication.class
+com\example\taskmanagement\domain\Task.class
+com\example\taskmanagement\exception\GlobalExceptionHandler.class
+com\example\taskmanagement\domain\Task$TaskBuilder.class
+com\example\taskmanagement\repository\TaskRepository.class
+com\example\taskmanagement\exception\TaskNotFoundException.class
+com\example\taskmanagement\controller\TaskController$CreateTaskRequest.class
+com\example\taskmanagement\controller\TaskController.class
+com\example\taskmanagement\controller\TaskController$UpdateTaskRequest.class
+com\example\taskmanagement\domain\TaskStatus.class
